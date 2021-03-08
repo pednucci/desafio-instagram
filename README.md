@@ -1,4 +1,6 @@
-## Projeto DIO página inicial do Instagram :rocket:
+## Projeto reconstrução página inicial do Instagram :rocket:
 
-> **Projeto de reconstrução da página inicial do Instagram realizado na plataforma Digital Innovation One!**
+> **O desafio proposto foi reconstruir a página inicial do Instagram.**
+>
+> O desafio foi realizado na plataforma _Digital Innovation One_
 
